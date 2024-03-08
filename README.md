@@ -10,10 +10,11 @@
 
 <h2>📫 Reach Me:</h2>
 <ul><li>https://github.com/muhammadayan1208, ayananas743@gmail.com</li></ul>
+<br>
   <hr>
-  <b>My Certificates!</b>
+ <h1><div align="center" dir="auto">My Certificates</div></h1>
   <br></br>
-  "freeCodeCamp Certifications"
+  <h3>"freeCodeCamp Certifications"</h3>
   <br>
 <ul>
 <li>
