@@ -8,8 +8,17 @@
   <br></br>
   "freeCodeCamp Certifications"
   <br></br>
-  1- Responsive Web Design Course Certification: https://www.freecodecamp.org/certification/muhammadayan1208/responsive-web-design
-  <br>
-  2- JavaScript Algorithms and Data Structures Course Certification: https://www.freecodecamp.org/certification/muhammadayan1208/javascript-algorithms-and-data-structures-v8
-  <br>
-  3- Front End Development Libraries Course Certification: https://www.freecodecamp.org/certification/muhammadayan1208/front-end-development-libraries
+
+<ul>
+<li>
+<p>
+Responsive Web Design Course Certification: https://www.freecodecamp.org/certification/muhammadayan1208/responsive-web-design</p>
+</li>
+<li>
+<p>
+JavaScript Algorithms and Data Structures Course Certification: https://www.freecodecamp.org/certification/muhammadayan1208/javascript-algorithms-and-data-structures-v8</p>
+</li><li>
+<p>
+Front End Development Libraries Course Certification: https://www.freecodecamp.org/certification/muhammadayan1208/front-end-development-libraries</p>
+</li>
+</ul>
