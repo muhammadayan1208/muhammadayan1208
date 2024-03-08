@@ -1,4 +1,4 @@
-- <h2>👋 Hi, I’m Muhammad Ayan</h2>
+ <h2>👋 Hi, I’m Muhammad Ayan</h2>
 - 👀 I’m interested in designing websites.
 - 🌱 I’m currently improving my JavaScript, React, node.js skills.
 - 📫 Reach me https://github.com/muhammadayan1208, ayananas743@gmail.com
