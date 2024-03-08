@@ -9,7 +9,7 @@
 <br>
 
 <h2>Reach Me:</h2>
-<ul><li><p> 📫 Reach me https://github.com/muhammadayan1208, ayananas743@gmail.com</p></li></ul>
+<ul><li><p> 📫 Reach me https://github.com/muhammadayan1208, @ayananas743@gmail.com</p></li></ul>
   <hr>
   <b>My Certificates!</b>
   <hr>
