@@ -19,7 +19,7 @@
 <br>
  <h1><div align="center" dir="auto">🎓 My Certificates!</div></h1>
   <br></br>
- <h2><div align="center" dir="auto">🔥 freeCodeCamp Certifications 🔥</div></h2>
+ <h3><div align="center" dir="auto">🔥 freeCodeCamp Certifications 🔥</div></h3>
   <br>
 <ul>
 <li>
