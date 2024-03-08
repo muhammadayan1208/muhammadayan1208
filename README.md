@@ -9,10 +9,9 @@
 <br>
 
 <h2>📫 Reach Me:</h2>
-<ul><li>https://github.com/muhammadayan1208, @ayananas743@gmail.com</li></ul>
+<ul><li>https://github.com/muhammadayan1208, (Gmail) @ayananas743@gmail.com</li></ul>
   <hr>
   <b>My Certificates!</b>
-  <hr>
   <br></br>
   "freeCodeCamp Certifications"
   <br>
