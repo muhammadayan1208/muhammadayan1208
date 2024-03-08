@@ -1,4 +1,4 @@
- <h1><div align="center" dir="auto">👋 Hi, I’m Muhammad Ayan 👨‍💻</div></h1>
+ <h1><div align="center" dir="auto">👋 Hi, I’m Muhammad Ayan</div></h1>
   <br>
 
 <ul>
