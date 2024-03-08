@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Muhammad Ayan
 - 👀 I’m interested in designing websites.
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me @ayananas743@gmail.com
-- 😄 Pronouns: He
+- 🌱 I’m currently improving my JavaScript, React, node.js skills.
+- 📫 Reach me https://github.com/muhammadayan1208, ayananas743@gmail.com
