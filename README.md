@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ayan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadayan1208&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadayan1208" /> </p>
+- 🌱 I’m currently learning **JavaScript Advance Skills and Frontend Libraries**
 
-- 🌱 I’m currently learning **JavaScript Advance Skills**
-
-- 📫 How to reach me **ayananas743@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Reach me: ayananas743@gmail.com, https://github.com/muhammadayan1208</h3>
 <p align="left">
 <a href="https://codepen.io/muhammadayan1208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="muhammadayan1208" height="30" width="40" /></a>
 </p>
