@@ -2,15 +2,17 @@
   <br>
 
 <ul>
+<li><p> 👀 I’m interested in designing websites.</p></li>
+
+<li><p> 🌱 I’m currently improving my JavaScript, React, node.js skills.</p></li>
+</ul>
+<br>
+
+<h2 div align="center" dir="auto">Reach Me:</div></h2>
+
 <li>
-<p> 👀 I’m interested in designing websites.</p>
-</li>
-<li>
-<p> 🌱 I’m currently improving my JavaScript, React, node.js skills.</p>
-</li><li>
 <p> 📫 Reach me https://github.com/muhammadayan1208, ayananas743@gmail.com</p>
 </li>
-</ul>
 
   <hr>
   <b>My Certificates!</b>
