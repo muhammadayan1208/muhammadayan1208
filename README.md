@@ -8,14 +8,15 @@
 </ul>
 <br>
 
-<h2 div align="center" dir="auto">Reach Me:</div></h2>
-
+<h2>Reach Me:</h2>
+<hr>
 <li>
 <p> 📫 Reach me https://github.com/muhammadayan1208, ayananas743@gmail.com</p>
 </li>
 
   <hr>
   <b>My Certificates!</b>
+  <hr>
   <br></br>
   "freeCodeCamp Certifications"
   <br>
