@@ -16,8 +16,7 @@
   <b>My Certificates!</b>
   <br></br>
   "freeCodeCamp Certifications"
-  <br></br>
-
+  <br>
 <ul>
 <li>
 <p>
