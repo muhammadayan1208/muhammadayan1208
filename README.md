@@ -13,7 +13,7 @@
 </ul>
 
   <hr>
-  <i><b>My Certificates!</b></i>
+  <u><i><b>My Certificates!</b></i></u>
   <br></br>
   "freeCodeCamp Certifications"
   <br></br>
