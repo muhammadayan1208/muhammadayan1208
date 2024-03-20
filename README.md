@@ -10,11 +10,11 @@
 <br>
 
 <h2>📫 Reach Me:</h2>
+<ul><li>👨🏻‍💻 Github => https://github.com/muhammadayan1208</li></ul>
+<ul><li>📧 Gmail => ayananas743@gmail.com</li></ul>
 <ul><li><p align="left">
 <a href="https://codepen.io/muhammadayan1208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="muhammadayan1208" height="50" width="50" /></a>
 </p></li></ul>
-<ul><li>👨🏻‍💻 Github => https://github.com/muhammadayan1208</li></ul>
-<ul><li>📧 Gmail => ayananas743@gmail.com</li></ul>
 
 <br>
  <h1><div align="center" dir="auto">🎓 My Certificates!</div></h1>
