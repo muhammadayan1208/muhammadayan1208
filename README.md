@@ -4,7 +4,7 @@
 <ul>
 <li><p> 🎨 I’m interested in designing websites.</p></li>
 <li><p> 🌱 I’m currently improving and learning more about JavaScript.</p></li>
-<li><p> ✨ Also Polishing My Front End Libraries React, node.js skills.</p></li>
+<li><p> ✨ Also Polishing My Frontend Libraries React, node.js skills.</p></li>
 
 </ul>
 <br>
