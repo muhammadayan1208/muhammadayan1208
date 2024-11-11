@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ayan</h1>
 <h3 align="center">A Frontend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadayan1208&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadayan1208" /> </p>
-
 - 🌱 I’m currently learning **NextJS Advance Skills**
 
 - 📫 How to reach me **ayananas743@gmail.com**, **ayan1208anas@gmail.com**
@@ -12,10 +10,6 @@
 <a href="https://codepen.io/muhammadayan1208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="muhammadayan1208" height="30" width="40" /></a>
 </p>
 
-<ul><li><p align="left">
-<a href="https://codepen.io/muhammadayan1208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="muhammadayan1208" height="50" width="50" /></a>
-</p></li></ul>
-
 <br>
  <h1><div align="center" dir="auto">🎓 My Certificates!</div></h1>
   <br></br>
@@ -24,7 +18,7 @@
 <ul>
 <li>
 <p>
-Responsive Web Design Course Certification: https://www.freecodecamp.org/certification/muhammadayan1208/responsive-web-design</p>
+Responsive Web Design Course Certification:  https://www.freecodecamp.org/certification/muhammadayan1208/responsive-web-design</p>
 </li>
 <li>
 <p>
@@ -32,6 +26,12 @@ JavaScript Algorithms and Data Structures Course Certification: https://www.free
 </li><li>
 <p>
 Front End Development Libraries Course Certification: https://www.freecodecamp.org/certification/muhammadayan1208/front-end-development-libraries</p>
+</li>
+</ul>
+
+<ul>
+<li>
+<p>1- <a src="https://www.freecodecamp.org/certification/muhammadayan1208/responsive-web-design">Responsive Web Design Course Certification</a></p>
 </li>
 </ul>
 
